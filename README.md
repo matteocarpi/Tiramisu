@@ -1,5 +1,16 @@
 # Tiramisù
 
+## Ingredients
+
+* [ ] 4 fresh eggs
+* [ ] 100g sugar
+* [ ] 500g mascarpone
+* [ ] Savoiardi (engl., Ladyfingers, lol)
+* [ ] Espresso coffee
+* [ ] Cacoa powder
+
+## Procedure
+
 1. Put 4 egg yolks and 50g of sugar together, mix them well so they become a bit foamy
 2. Add 500g mascarpone and mix to make it homogeneous
 3. Mix 4 egg whites so they become like snow, towards the end add the other 50g of sugar
