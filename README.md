@@ -1,5 +1,3 @@
-# Tiramisù
-
 ## Prologue
 
 The Tiramisù is at his best balance between freshness and settleness between 12 and 24 hours after the preparation. 
