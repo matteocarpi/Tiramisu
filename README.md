@@ -1,5 +1,10 @@
 # Tiramisù
 
+## Prologue
+
+The Tiramisù is at his best balance between freshness and settleness between 12 and 24 hours after the preparation. 
+For best results prepare it in the morning for the night or in the evening for the lunch of the following day.
+
 ## Ingredients
 
 * [ ] 4 fresh eggs
